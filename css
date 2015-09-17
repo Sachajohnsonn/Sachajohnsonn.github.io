@@ -1,1 +1,16 @@
+ .container { 
+18                  width: 50% 
+19                  margin: 0 auto; 
+20                      } 
+21                       
+22             .left { 
+23                   float:left; 
+24                   width: 40% 
+25                   } 
+26                    
+27             .right { 
+28                   float:left; 
+29                   width: 40%; 
+30                   magin-left: 10%; 
+31                   } 
 
